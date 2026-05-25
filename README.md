@@ -1,5 +1,3 @@
-# One avatar project is all you need
-
 ## Coming soon
 
 With one avatar project you will be able to create an avatar that supports multiple targets.
