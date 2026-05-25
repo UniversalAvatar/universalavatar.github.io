@@ -1,6 +1,7 @@
 ---
 title: "Universal Avatar"
 description: "Universal Avatar is a framework for building avatars"
+permalink: /
 ---
 
 ## Coming soon
