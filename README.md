@@ -1,3 +1,8 @@
+---
+title: "Universal Avatar"
+description: "Universal Avatar is a framework for building avatars"
+---
+
 ## Coming soon
 
 With one avatar project you will be able to create an avatar that supports multiple targets.
